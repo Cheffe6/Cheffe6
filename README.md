@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cheffe6
+- 👀 I’m interested in IoT
+- 🌱 I’m currently learning .py
+- 📫 How to reach me -> google me
